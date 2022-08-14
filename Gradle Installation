@@ -1,3 +1,4 @@
 sudo apt install snapd -y
  sudo snap install gradle --classic
 JAVA_HOME Set up: export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+Maven installation: sudo apt install maven
